@@ -4,3 +4,5 @@ standing strong
 on their chosen field
 love is on the air
 lalala
+
+learning git gui
