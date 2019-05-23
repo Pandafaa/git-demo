@@ -6,3 +6,4 @@ love is on the air
 lalala
 
 learning git gui
+как отменить комит
