@@ -7,3 +7,6 @@ lalala
 
 learning git gui
 как отменить комит
+
+TEXT WE NEED to commit
+and push to github
